@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
+<img src="https://komarev.com/ghpvc/?username=aaryanporwal&color=ff69b4" />  
+<img src="https://github-readme-stats.vercel.app/api?username=aaryanporwal&count_private=true&show_icons=true&title_color=0c45ff&text_color=000&icon_color=0c45ff&include_all_commits=true" />
+
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
