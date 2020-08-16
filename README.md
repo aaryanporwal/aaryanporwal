@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 💗 Things I love talking about: GNU/linux, C/C++, Computer Networks and Coffee ☕️
-- 🌱 I’m currently learning C and Python
-- 📫 How to reach me: aaryanporwal2233 [at] gmail [dot] [com]
+- 🌱 I’m currently working in C,Python and js
+- 📫 How to reach me: aaryanporwal2233 [at] gmail [dot] [com], or find me on IRC aaryan at freenode
+
 - 😄 Pronouns: he/him
 
 <hr>
