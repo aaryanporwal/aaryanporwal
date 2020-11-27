@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 💗 Things I love talking about: GNU/linux, C/C++, Computer Networks and Coffee ☕️
-- 🌱 I’m currently working in C, Python and js
+- 🌱 I’m currently working in C, Python and JavaScript
 - 📫 How to reach me: aaryanporwal2233 [at] gmail [dot] [com], or find me on IRC aaryan at freenode
 
 - 😄 Pronouns: he/him
