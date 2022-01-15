@@ -254,7 +254,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aniftyco/awesome-tailwindcss</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 Awesome things related to Tailwind CSS</div>
@@ -301,7 +301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rubjo/victor-mono</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A free programming font with cursive italics and ligatures. Donations welcome ❤️</div>
@@ -354,7 +354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>googleprojectzero/weggli</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.</div>
@@ -1165,7 +1165,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jan 2022, 17:50:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 15 Jan 2022, 18:51:03 (timezone Asia/Calcutta) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
