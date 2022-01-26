@@ -259,7 +259,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ValentinH/weather-app</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A weather app using Vercel edge functions for geolocation</div>
@@ -306,7 +306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hackclub/muse</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎸 a simple language for jamming!</div>
@@ -359,7 +359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>garmeeh/next-seo</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Next SEO is a plug in that makes managing your SEO easier in Next.js projects.</div>
@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>GoogleChrome/web.dev</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The frontend, backend, and content source code for web.dev</div>
@@ -1169,7 +1169,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2022, 02:41:48 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 03:41:53 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
