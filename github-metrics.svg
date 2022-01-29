@@ -259,7 +259,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>twitter-archive/snowflake</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.</div>
@@ -816,7 +816,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 79.2k out of 84m users</span>
+                                    <span class="gh">ranked 79.1k out of 84m users</span>
                                 </div>
                                 <div class="text">Followed by 81 users</div>
                             </div>
@@ -1163,7 +1163,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2022, 02:40:05 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 30 Jan 2022, 03:42:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
