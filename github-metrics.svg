@@ -412,7 +412,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Windscribe/desktop-v2</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windscribe 2.0 desktop client for Windows, Mac and Linux</div>
@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ValentinH/weather-app</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A weather app using Vercel edge functions for geolocation</div>
@@ -1163,7 +1163,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2022, 23:48:06 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 30 Jan 2022, 00:41:58 (timezone Asia/Calcutta) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
