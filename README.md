@@ -5,6 +5,3 @@ I'm **Aaryan Porwal** a passionate developer and currently a third year computer
 - Things I love talking about: GNU/linux, C/C++, Computer Networks and Coffee ☕️.
 -  How to reach me: 📧 aaryanporwal2233 [at] gmail [dot] [com], or find me on @aaryan7476:matrix.org 🕸️.
 
-## Metrics
-
-![Metrics](github-metrics.svg)
