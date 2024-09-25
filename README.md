@@ -1,5 +1,3 @@
-<img src="https://i.giphy.com/media/ZefIoePm93MwXpoYxz/giphy.webp" />
-
 I'm **Aaryan Porwal**, a passionate software developer and:
 - Currently a Software Engineer at Canonical (Ubuntu) in the Anbox UI team!
 - Previously SDE-1 at Zomato.
